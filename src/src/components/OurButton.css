@@ -1,0 +1,13 @@
+.our-btn {
+    color: #fff !important;
+    border-color: #a279b6 !important;
+    font-family: "Gothic A1";
+    font-size: 100%;
+}
+
+.our-btn:hover {
+    transform: translateY(-5%);
+    background-color: #a279b6;
+    color: #fff !important;
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.36, 1);
+}

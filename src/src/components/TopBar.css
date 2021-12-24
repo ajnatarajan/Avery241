@@ -1,3 +1,17 @@
 .dark-theme {
     background-color: #111;
 }
+
+.navbar-title-text {
+    font-family: 'Gothic A1';
+    color: #FFF;
+    font-weight: 200 !important;
+    font-size: calc(2vw + 20px);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between !important;
+    padding-left: 5%;
+    padding-right: 5%;
+}

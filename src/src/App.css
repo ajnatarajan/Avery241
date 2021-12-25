@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300&display=swap');
-.font-testing {
-  font-family: 'Gothic A1';
-  font-weight: 200;
-  font-size: 36px;
+.page-container {
+  background-color: #000 !important;
+  background-size: cover;
+  min-height: calc(100vh);
 }

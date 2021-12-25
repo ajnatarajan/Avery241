@@ -6,7 +6,24 @@
     font-family: 'Gothic A1';
     color: #FFF;
     font-weight: 200 !important;
-    font-size: calc(2vw + 20px);
+    font-size: calc(1.2vw + 20px);
+}
+
+.nav-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-logo {
+    width: calc(1.2vw + 40px);
+}
+
+.nav-logo-text {
+    color: #FFF;
+    font-family: 'Gothic A1';
+    font-weight: 600;
+    font-size: calc(1.2vw + 5px);
 }
 
 .flex-container {

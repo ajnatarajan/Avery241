@@ -8,10 +8,10 @@ export default function TopBar() {
     return(
         <header>
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossOrigin="anonymous"></link>
-          <nav className="navbar navbar-expand-lg dark-theme py-3 flex-container">
+          <nav className="navbar navbar-expand-lg dark-theme flex-container">
             <div className="nav-logo-container">
                 <img src={avery_logo} className="nav-logo"/>
-                <div className="nav-logo-text">
+                <div className="nav-logo-text m-0">
                     Avery 241
                 </div>
             </div>

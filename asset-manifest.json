@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/src/static/css/main.a65b3aa8.css",
-    "main.js": "/src/static/js/main.43cf94be.js",
-    "static/js/787.faf48f1c.chunk.js": "/src/static/js/787.faf48f1c.chunk.js",
-    "static/media/logo_purple.png": "/src/static/media/logo_purple.c5b36fd112978143d9fd.png",
-    "index.html": "/src/index.html",
-    "main.a65b3aa8.css.map": "/src/static/css/main.a65b3aa8.css.map",
-    "main.43cf94be.js.map": "/src/static/js/main.43cf94be.js.map",
-    "787.faf48f1c.chunk.js.map": "/src/static/js/787.faf48f1c.chunk.js.map"
+    "main.css": "/Avery241/static/css/main.a65b3aa8.css",
+    "main.js": "/Avery241/static/js/main.2f4176f3.js",
+    "static/js/787.faf48f1c.chunk.js": "/Avery241/static/js/787.faf48f1c.chunk.js",
+    "static/media/logo_purple.png": "/Avery241/static/media/logo_purple.c5b36fd112978143d9fd.png",
+    "index.html": "/Avery241/index.html",
+    "main.a65b3aa8.css.map": "/Avery241/static/css/main.a65b3aa8.css.map",
+    "main.2f4176f3.js.map": "/Avery241/static/js/main.2f4176f3.js.map",
+    "787.faf48f1c.chunk.js.map": "/Avery241/static/js/787.faf48f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a65b3aa8.css",
-    "static/js/main.43cf94be.js"
+    "static/js/main.2f4176f3.js"
   ]
 }
